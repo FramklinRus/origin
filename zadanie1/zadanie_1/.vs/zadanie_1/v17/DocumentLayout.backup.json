@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\code\\dz1\\zadanie1\\zadanie_1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7D62B0C0-6E2A-4911-8950-3A2674D3B3F0}|zadanie_1\\zadanie_1.vcxproj|E:\\code\\dz1\\zadanie1\\zadanie_1\\zadanie_1\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7D62B0C0-6E2A-4911-8950-3A2674D3B3F0}|zadanie_1\\zadanie_1.vcxproj|solutionrelative:zadanie_1\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D62B0C0-6E2A-4911-8950-3A2674D3B3F0}|zadanie_1\\zadanie_1.vcxproj|E:\\code\\dz1\\zadanie1\\zadanie_1\\zadanie_1\\zadanie_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7D62B0C0-6E2A-4911-8950-3A2674D3B3F0}|zadanie_1\\zadanie_1.vcxproj|solutionrelative:zadanie_1\\zadanie_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "E:\\code\\dz1\\zadanie1\\zadanie_1\\zadanie_1\\Source.cpp",
+              "RelativeDocumentMoniker": "zadanie_1\\Source.cpp",
+              "ToolTip": "E:\\code\\dz1\\zadanie1\\zadanie_1\\zadanie_1\\Source.cpp*",
+              "RelativeToolTip": "zadanie_1\\Source.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-18T13:22:09.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "zadanie_1.cpp",
+              "DocumentMoniker": "E:\\code\\dz1\\zadanie1\\zadanie_1\\zadanie_1\\zadanie_1.cpp",
+              "RelativeDocumentMoniker": "zadanie_1\\zadanie_1.cpp",
+              "ToolTip": "E:\\code\\dz1\\zadanie1\\zadanie_1\\zadanie_1\\zadanie_1.cpp",
+              "RelativeToolTip": "zadanie_1\\zadanie_1.cpp",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAAAFYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-18T12:44:52.263Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
