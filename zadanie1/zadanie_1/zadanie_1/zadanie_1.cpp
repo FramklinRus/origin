@@ -24,58 +24,11 @@ enum class Month
 Month get_month(int M)
 {
     
-    if (M == 1)
+    if (M >= 1 && M <= 12)
     {
-        return Month::январь;
+        return static_cast<Month>(M); 
     }
-    else   if (M == 2)
-    {
-        return Month::февраль;
-    }
-    else    if (M == 3)
-    {
-        return Month::март;
-    }
-    else  if (M == 4)
-    {
-        return Month::апрель;
-    }
-    else   if (M == 5)
-    {
-        return Month::май;
-    }
-    else  if (M == 6)
-    {
-        return Month::июнь;
-    }
-    else   if (M == 7)
-    {
-        return Month::июль;
-    }
-    else if (M == 8)
-    {
-        return Month::август;
-    }
-    else  if (M == 9)
-    {
-        return Month::сентябрь;
-    }
-    else if (M == 10)
-    {
-        return Month::октябрь;
-    }
-    else if (M == 11)
-    {
-        return Month::ноябрь;
-    }
-    else if (M == 12)
-    {
-        return Month::декабрь;
-    }
-    else 
-    {
-        return Month::ошибка;
-    }
+    return Month::ошибка;
 }
 
 int main()

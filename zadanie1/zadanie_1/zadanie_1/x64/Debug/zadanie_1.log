@@ -1,4 +1,2 @@
-﻿  Source.cpp
-E:\code\dz1\zadanie1\zadanie_1\zadanie_1\Source.cpp(13,15): warning C4552: "+": результат выражения не используется
-zadanie_1.obj : error LNK2005: main уже определен в Source.obj
-E:\code\dz1\zadanie1\zadanie_1\x64\Debug\zadanie_1.exe : fatal error LNK1169: обнаружен многократно определенный символ - один или более
+﻿  zadanie_1.cpp
+  zadanie_1.vcxproj -> E:\code\dz1\zadanie1\zadanie_1\x64\Debug\zadanie_1.exe
