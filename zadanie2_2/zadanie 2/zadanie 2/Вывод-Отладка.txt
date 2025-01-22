@@ -1,0 +1,13 @@
+﻿"zadanie 2.exe" (Win32). Загружено "E:\code\dz2\zadanie2\zadanie 2\x64\Debug\zadanie 2.exe". Символы загружены.
+"zadanie 2.exe" (Win32). Загружено "C:\Windows\System32\ntdll.dll". 
+"zadanie 2.exe" (Win32). Загружено "C:\Windows\System32\kernel32.dll". 
+"zadanie 2.exe" (Win32). Загружено "C:\Windows\System32\KernelBase.dll". 
+"zadanie 2.exe" (Win32). Загружено "C:\Windows\System32\msvcp140d.dll". 
+"zadanie 2.exe" (Win32). Загружено "C:\Windows\System32\vcruntime140d.dll". 
+"zadanie 2.exe" (Win32). Загружено "C:\Windows\System32\vcruntime140_1d.dll". 
+"zadanie 2.exe" (Win32). Загружено "C:\Windows\System32\ucrtbased.dll". 
+Поток 23980 завершился с кодом 0 (0x0).
+Поток 2188 завершился с кодом 3221225786 (0xc000013a).
+Поток 19904 завершился с кодом 3221225786 (0xc000013a).
+Поток 36400 завершился с кодом 3221225786 (0xc000013a).
+Программа "[25224] zadanie 2.exe" завершилась с кодом 3221225786 (0xc000013a).

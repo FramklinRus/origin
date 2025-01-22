@@ -34,7 +34,7 @@ Month get_month(int M)
 int main()
 {
     setlocale(LC_ALL, "Russian");
-    int x=1;
+        
 while (x != 0)
     {
         cout << "Введите номер месяца:";
