@@ -20,13 +20,13 @@ Month get_month(int M) {
     if (M >= 1 && M <= 12) {
         return static_cast<Month>(M);
     }
-    return Month::January; // Вернем любое значение, т.к. обработка ошибки в main
+    return Month::January; 
 }
 
 int main() {
     setlocale(LC_ALL, "Russian");
 
-    int x = -1; // Инициализация переменной
+    int x = -1; 
 
     while (x != 0) {
         cout << "Введите номер месяца: ";
