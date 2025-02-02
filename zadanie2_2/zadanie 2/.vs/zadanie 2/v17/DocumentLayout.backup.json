@@ -1,10 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\code\\dz2\\zadanie2\\zadanie 2\\",
+  "WorkspaceRootPath": "E:\\code\\dz1\\zadanie2_2\\zadanie 2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{26975B44-AF8F-40A3-A85B-DAB2C8D0A175}|zadanie 2\\zadanie 2.vcxproj|E:\\code\\dz2\\zadanie2\\zadanie 2\\zadanie 2\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{26975B44-AF8F-40A3-A85B-DAB2C8D0A175}|zadanie 2\\zadanie 2.vcxproj|solutionrelative:zadanie 2\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{26975B44-AF8F-40A3-A85B-DAB2C8D0A175}|zadanie 2\\zadanie 2.vcxproj|E:\\code\\dz1\\zadanie2_2\\zadanie 2\\zadanie 2\\Zadanie2_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{26975B44-AF8F-40A3-A85B-DAB2C8D0A175}|zadanie 2\\zadanie 2.vcxproj|solutionrelative:zadanie 2\\Zadanie2_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\code\\dz2\\zadanie2\\zadanie 2\\zadanie 2\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,15 +22,26 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Zadanie2_1.cpp",
+              "DocumentMoniker": "E:\\code\\dz1\\zadanie2_2\\zadanie 2\\zadanie 2\\zadanie2_1.cpp",
+              "RelativeDocumentMoniker": "zadanie 2\\zadanie2_1.cpp",
+              "ToolTip": "E:\\code\\dz1\\zadanie2_2\\zadanie 2\\zadanie 2\\zadanie2_1.cpp",
+              "RelativeToolTip": "zadanie 2\\zadanie2_1.cpp",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAC8AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-02T12:16:11.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Source.cpp",
               "DocumentMoniker": "E:\\code\\dz2\\zadanie2\\zadanie 2\\zadanie 2\\Source.cpp",
-              "RelativeDocumentMoniker": "zadanie 2\\Source.cpp",
-              "ToolTip": "E:\\code\\dz2\\zadanie2\\zadanie 2\\zadanie 2\\Source.cpp*",
-              "RelativeToolTip": "zadanie 2\\Source.cpp*",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAACoAAAAUAAAAAAAAAA==",
+              "RelativeDocumentMoniker": "..\\..\\..\\dz2\\zadanie2\\zadanie 2\\zadanie 2\\Source.cpp",
+              "ToolTip": "E:\\code\\dz2\\zadanie2\\zadanie 2\\zadanie 2\\Source.cpp",
+              "RelativeToolTip": "..\\..\\..\\dz2\\zadanie2\\zadanie 2\\zadanie 2\\Source.cpp",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-01-22T14:31:28.411Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-22T14:31:28.411Z"
             }
           ]
         }

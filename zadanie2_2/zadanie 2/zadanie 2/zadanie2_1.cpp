@@ -7,7 +7,8 @@ class Counter{
 private:
 	int num;
 public: 
-	Counter(int init=1) : num(init) {}
+	Counter(int init=1) : num(init) {
+	}
 	void add()
 	{
 	num ++;
@@ -20,6 +21,10 @@ public:
 	int get_value() 
 	{
 		return num;
+	}
+	void set_counter(int set)
+	{
+		num = set;
 	}
 };
 
@@ -37,7 +42,7 @@ int main ()
 		{
 			cout << "¬ведите начальное значение счЄтчика:";
 			cin >> z;
-			count=Counter(z);
+			count.set_counter(z);
 	    }
 		while (a != 'x')
 		{
